@@ -1,0 +1,5 @@
+{
+  "name": "Stellar Map Engine",
+  "description": "A premium astronomical map generator using d3-celestial for accurate star charts and high-resolution printing.",
+  "requestFramePermissions": []
+}
